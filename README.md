@@ -7,16 +7,16 @@
 
 ---
 
-### pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## **API Reference**
 
-## **GET** /search
+- **GET** /search
 
-## **GET** /get_all_movies
+- **GET** /get_all_movies
 
-## **GET** /get_top_rated_movies
+- **GET** /get_top_rated_movies
 
-## **GET** /movie/{imdbId}
+- **GET** /movie/{imdbId}
 
-## **PUT** /movie/{imdbId} (update movie details in the local database)
+- **PUT** /movie/{imdbId} (update movie details in the local database)
