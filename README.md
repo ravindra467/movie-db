@@ -15,6 +15,6 @@
 
 ## **GET** /get_top_rated_movies
 
-## **GET** /movie/<imdbId>
+## **GET** /movie/{<imdbId>}
 
 ## **PUT** /movie/<imdbId> (update movie details in the local database)
