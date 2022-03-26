@@ -9,6 +9,8 @@
 
 - pip install -r requirements.txt
 
+---
+
 ## **API Reference**
 
 - **GET** /search
